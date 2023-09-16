@@ -1,0 +1,19 @@
+fun para cacular retenciones
+fun para agregar empleado
+fun para despedid empleado
+fun para sumar falta
+fun para mostrar salario bruto y neto
+
+retenciones Las retenciones son: 
+        - 10% para jubilación
+        - 6% para obra social
+        - 2% sindicato
+        - Se descuenta 1 día de paga por cada falta (el día se calcula como una jornada de 8hs)
+        - Si el salario bruto es mayor a 400.000 se retiene un 35% sobre el monto excedido
+
+100.000 - horas faltadas = x
+
+x - 18%
+
+
+660K
